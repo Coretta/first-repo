@@ -1,1 +1,5 @@
 This is my third text file.
+
+These text files are for git testing purposes only.
+
+Second edit to file to test diff command.
